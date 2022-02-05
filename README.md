@@ -9,11 +9,9 @@
 * `Dexec.args='XXX'` 提供运行参数
 
 ## 介绍
-
 极客时间Java提薪营
 
 ### 并发
-
 1. Java并发和多线程
 2. 并发集合
 3. 线程并发竞赛
@@ -22,7 +20,6 @@
  - 希望重新设计程序，运用高效能集合和算法，更快的处理业务逻辑
 
 ### NIO
-
 1. Java NIO
 2. Netty
 3. Java NIO.2
@@ -30,8 +27,4 @@
 ### JDK
 
 1. JMX 获取系统信息
-2. 自带国密算法的JRE (JDK17分支)
-3. 加解密例子
-4. 工具类处理例子
-
-# copy_from_zhang_official_gitee_repo
+2. 自带国密算法的JRE
