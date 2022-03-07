@@ -34,4 +34,20 @@
 3. 加解密例子
 4. 工具类处理例子
 
-# copy_from_zhang_official_gitee_repo
+### JVM 
+
+1. 查看默认的 GC
+2. ASM 遍历类，修改私有方法为公开方法
+3. Cglib，加强抽象类和方法
+
+### IoC
+
+1. Guice 示例
+2. starter 开发一个Spring Boot Starter
+3. quarkus 示例  (JDK17分支)
+
+### 微服务
+
+1. Spring Reactive 示例
+
+
